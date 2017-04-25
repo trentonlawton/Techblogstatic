@@ -56,3 +56,10 @@ nav > ul li:hover ul {
   position: absolute;
   background-color: #333;
 }
+
+.fakebutton{
+  width:60px;
+  height: 20px;
+  background-color: #cc0000;
+  color: pink;
+}
